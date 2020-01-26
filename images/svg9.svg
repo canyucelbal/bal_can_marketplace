@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="300px" height="300px" viewBox="0 0 300 300" style="enable-background:new 0 0 300 300;" xml:space="preserve">
+	 <style>
+
+
+	 rect:hover {
+	  fill: #adadad;
+	 }
+
+	 path:hover {
+	 fill: #adadad;
+	 }
+
+
+	 </style>
+<rect x="3" y="4" width="293" height="293"/>
+<rect x="2" y="4" style="fill:#FFFFFF;" width="259" height="258"/>
+<path d="M253,24c0-6.627-5.373-12-12-12H23c-6.627,0-12,5.373-12,12v218c0,6.627,5.373,12,12,12h218c6.627,0,12-5.373,12-12V24z"/>
+</svg>

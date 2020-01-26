@@ -1,0 +1,142 @@
+body {
+  font-size: 14px;
+  color: #000;
+  background-color: #ededed;
+}
+
+.svgGeo {
+	display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+}
+
+.image1, .image2, .image3 {
+  margin-top: 10px;
+  padding-right: 10px;
+}
+
+.image1,.image2,.image3{
+  margin-left: 15px;
+  margin-bottom: 5px;
+}
+
+.names {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+.names1 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  font-size: 17px;
+  font-family: "Helvetica", Arial, sans-serif;
+}
+
+.names p {
+  margin-left: 20px;
+  margin-right: 20px;
+  font-size: 17px;
+  font-family: "Helvetica", Arial, sans-serif;
+}
+
+.content1 p {
+  margin-right: 25px;
+  font-size: 17px;
+  font-family: "Helvetica", Arial, sans-serif;
+}
+
+.image4 {
+  margin-top: 5px;
+  margin-left: 15px;
+}
+
+.border1 {
+  border-right: solid 2px grey; 
+  opacity: 30%;
+}
+
+.border2 {
+  border-right: solid 2px grey;
+  margin-left: 10px;
+  opacity: 30%;
+}
+
+
+.heading {
+  display: relative;
+  position: relative;
+  margin-left: 350px;
+  font-size: 20px;
+  font-family: "Agency FB", Arial, sans-serif;
+}
+
+.footerH2 {
+  margin-left: 55px;
+  font-family: "Agency FB", Arial, sans-serif;
+  font-size: 20px;
+}
+.welcome {
+  position: relative;
+  display: relative;
+  margin-bottom: 10px;
+  margin: 0 250px 10px 325px;  
+  font-size: 17px;
+  bottom: 10px; 
+  font-family: "Helvetica", Arial, sans-serif;
+  justify-content: center;
+}
+
+.border {
+  border: solid 2px grey;
+  width: 95%;
+  opacity: 30%;
+  margin-bottom: 3px;
+  margin-left: 30px;
+}
+
+hr  {
+  background-color: grey;
+  opacity: 30%;
+  width: 95%;
+  margin-left: 30px;
+}
+
+.grey_image {
+	background-color: #adadad
+}
+
+.container {
+  width: 1000px;
+  height: 1250px;
+  margin: 0 auto;
+  background-color: #fff;
+}
+
+footer {
+  background-color: #adadad;
+  color: white;
+}
+
+.footerText {
+  margin-left: 300px;
+}
+
+.top {
+  height: 250px;
+  width: 1000px;
+  position: relative; 
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.top h1 {
+	font-family: "Helvetica", Arial, sans-serif;
+	color: white;
+	margin-left: 220px;
+ 	font-size: 40px;
+}
