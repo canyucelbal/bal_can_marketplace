@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="300px" height="300px" viewBox="0 0 300 300" style="enable-background:new 0 0 300 300;" xml:space="preserve">
+	 <style>
+
+
+	 path:hover {
+	  fill: #adadad;
+	 }
+
+
+	 </style>
+<path d="M296,24.087C296,12.532,287.009,3,275.493,3H23.507C11.99,3,3,12.532,3,24.087v252.825C3,288.468,11.99,298,23.507,298
+	h251.986c11.516,0,20.507-9.532,20.507-21.088V24.087z"/>
+<path style="fill:#FFFFFF;stroke:#000000;stroke-miterlimit:10;" d="M217.5,103.422c0-11.556-9.563-20.922-21.078-20.922h-92.105
+	c-11.518,0-20.816,9.367-20.816,20.922v92.412c0,11.555,9.299,20.666,20.816,20.666h92.105c11.516,0,21.078-9.111,21.078-20.666
+	V103.422z"/>
+</svg>
